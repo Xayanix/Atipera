@@ -21,7 +21,7 @@ import java.util.List;
 @RequestMapping("/api/github")
 @RequiredArgsConstructor
 @FieldDefaults(makeFinal = true, level = AccessLevel.PRIVATE)
-public class OrderController {
+public class GitHubController {
 
 	IGitHubService gitHubService;
 
