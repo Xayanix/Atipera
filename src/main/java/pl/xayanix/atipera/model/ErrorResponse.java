@@ -1,4 +1,4 @@
-package pl.xayanix.dpdgroupproject.model;
+package pl.xayanix.atipera.model;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

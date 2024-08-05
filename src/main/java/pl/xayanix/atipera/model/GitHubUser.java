@@ -1,4 +1,4 @@
-package pl.xayanix.dpdgroupproject.model;
+package pl.xayanix.atipera.model;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;
@@ -9,9 +9,8 @@ import lombok.experimental.FieldDefaults;
 @FieldDefaults(level = AccessLevel.PRIVATE)
 @AllArgsConstructor
 @NoArgsConstructor
-public class Branch {
+public class GitHubUser {
 
-    String name;
-    Commit commit;
+	String login;
 
 }

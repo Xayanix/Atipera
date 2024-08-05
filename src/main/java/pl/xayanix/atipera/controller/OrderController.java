@@ -2,7 +2,7 @@
  * Controller class for handling HTTP requests related to orders.
  * Responsible for receiving and processing orders, as well as updating existing orders.
  */
-package pl.xayanix.dpdgroupproject.controller;
+package pl.xayanix.atipera.controller;
 
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
@@ -11,8 +11,8 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import pl.xayanix.dpdgroupproject.model.Repository;
-import pl.xayanix.dpdgroupproject.service.IGitHubService;
+import pl.xayanix.atipera.model.Repository;
+import pl.xayanix.atipera.service.IGitHubService;
 
 import java.util.List;
 

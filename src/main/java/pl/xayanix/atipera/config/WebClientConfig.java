@@ -1,4 +1,4 @@
-package pl.xayanix.dpdgroupproject.config;
+package pl.xayanix.atipera.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

@@ -1,13 +1,13 @@
-package pl.xayanix.dpdgroupproject.service.impl;
+package pl.xayanix.atipera.service.impl;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 import org.springframework.web.reactive.function.client.WebClientResponseException;
-import pl.xayanix.dpdgroupproject.exception.ApiException;
-import pl.xayanix.dpdgroupproject.model.*;
-import pl.xayanix.dpdgroupproject.service.IGitHubService;
+import pl.xayanix.atipera.exception.ApiException;
+import pl.xayanix.atipera.model.*;
+import pl.xayanix.atipera.service.IGitHubService;
 
 import java.util.List;
 import java.util.stream.Collectors;

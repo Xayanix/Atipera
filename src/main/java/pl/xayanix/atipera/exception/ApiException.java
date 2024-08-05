@@ -1,4 +1,4 @@
-package pl.xayanix.dpdgroupproject.exception;
+package pl.xayanix.atipera.exception;
 
 import lombok.AccessLevel;
 import lombok.Getter;

@@ -1,6 +1,6 @@
-package pl.xayanix.dpdgroupproject.service;
+package pl.xayanix.atipera.service;
 
-import pl.xayanix.dpdgroupproject.model.Repository;
+import pl.xayanix.atipera.model.Repository;
 
 import java.util.List;
 

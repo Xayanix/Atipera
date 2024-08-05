@@ -1,10 +1,10 @@
-package pl.xayanix.dpdgroupproject.exception;
+package pl.xayanix.atipera.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
-import pl.xayanix.dpdgroupproject.model.ErrorResponse;
+import pl.xayanix.atipera.model.ErrorResponse;
 
 
 @RestControllerAdvice
