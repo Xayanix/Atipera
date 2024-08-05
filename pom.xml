@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pl.xayanix</groupId>
-	<artifactId>dpdgroupproject</artifactId>
+	<artifactId>atipraproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Atipera</name>
 	<description>DESIGN &amp; CODING TASK</description>
